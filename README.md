@@ -15,4 +15,5 @@ streamlit run dashboard\dashboard.py
 
 ## Link
 [Manabe Baiku Streamlit](https://manabebaiku.streamlit.app/)
+
 [Manabe Baiku Colab](https://colab.research.google.com/drive/1Wr2mNP_1olBY7X65llEaPbb7d2MprtSR)
